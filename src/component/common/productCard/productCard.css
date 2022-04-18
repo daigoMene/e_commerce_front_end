@@ -1,0 +1,21 @@
+.prodImage {
+    height: 150px;
+    margin: 10px;
+    width: 150px;
+}
+.prodContainer {
+    display: flex;
+    background: wheat;
+    flex-direction: column;
+    /* /* height: 100%; */
+}
+
+img {
+    width: 150px;
+    height: 100%;
+}
+
+.labels {
+    overflow: hidden;
+    height: 20px;
+} 

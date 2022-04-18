@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    margin: 0;
+    background: #f1f3f6;
+}

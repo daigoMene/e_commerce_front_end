@@ -1,0 +1,15 @@
+.listContainer {
+    background: white;
+    margin: 5px;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.listHeader {
+    height: 50px;
+    border-bottom: 2px #f1f3f6 solid;
+}
+
+.productContainer {
+    display: flex;
+}
